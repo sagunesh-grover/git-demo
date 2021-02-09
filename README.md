@@ -1,2 +1,2 @@
 # git-demo
-demo repo
+demo repo for assignments
