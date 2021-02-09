@@ -1,3 +1,5 @@
+
+#Author
 # save the final model to file
 from keras.datasets import fashion_mnist
 from keras.utils import to_categorical
